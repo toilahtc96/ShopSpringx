@@ -19,3 +19,4 @@ WebContent/WEB-INF/web.xml
 .settings/.jsdtscope
 .project
 .classpath
+/target/
