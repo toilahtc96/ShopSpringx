@@ -1,0 +1,16 @@
+
+.settings/org.eclipse.wst.common.component
+target/m2e-wtp/web-resources/META-INF/maven/htc.dhh.vn.com/ShopPerfect/pom.xml
+.settings/org.eclipse.m2e.core.prefs
+.settings/org.eclipse.wst.common.project.facet.core.xml
+.settings/org.eclipse.wst.jsdt.ui.superType.container
+.settings/org.eclipse.wst.validation.prefs
+.settings/org.eclipse.wst.jsdt.ui.superType.name
+target/classes/vn/com/shop/controller/HomeController.class
+target/classes/vn/com/shop/model/User.class
+target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+target/m2e-wtp/web-resources/META-INF/maven/htc.dhh.vn.com/ShopPerfect/pom.properties
+.settings/org.eclipse.jdt.core.prefs
+.settings/.jsdtscope
+.project
+.classpath
